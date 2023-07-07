@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\Users\ACER\Desktop\NewEcom\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1678985184.index
+\Ecommerce Website Project\src
+C:\Users\ACER\Desktop\NewEcom\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1967626002.index
+\Ecommerce Website Project\src
+C:\Users\ACER\Desktop\NewEcom\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\190846242.index
+\Ecommerce Website Project\src
